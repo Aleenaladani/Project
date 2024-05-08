@@ -1,0 +1,8 @@
+digraph Foo {
+A -> B;
+B -> A;
+A -> C;
+B -> C;
+B -> D;
+C -> D;
+}
